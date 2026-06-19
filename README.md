@@ -4,27 +4,18 @@
 SQL-аналитика музыкального стримингового сервиса mosMusic на базе SQLite.
 
 ## Структура проекта
-'''
-block1_project/
 
-|-- database/
-
-|   |-- mosmusic_final_collabs_multiple_albums.db
-
-|-- sql/
-
-|   |-- 1.1.sql  # самый прослушиваемый rock-альбом
-
-|   |-- 1.2.sql  # исполнитель с наибольшим числом песен в топ-20%
-
-|   |-- 1.3.sql  # альбом с наибольшим числом коллабораций
-
-|   |-- 1.4.sql  # динамика прослушиваний по месяцам
-
-|   |-- 1.5.sql  # популярность жанров по регионам
-
-|-- screenshots/
-'''
+    block1_project/
+    |-- database/
+    |   |-- mosmusic_final_collabs_multiple_albums.db
+    |-- sql/
+    |   |-- 1.1.sql
+    |   |-- 1.2.sql
+    |   |-- 1.3.sql
+    |   |-- 1.4.sql
+    |   |-- 1.5.sql
+    |-- screenshots/
+    |-- README.md
 
 ## Как воспроизвести
 1. Открой DBeaver
